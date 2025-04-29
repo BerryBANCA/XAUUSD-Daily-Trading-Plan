@@ -1,0 +1,7 @@
+{
+  "buy_limit": 3320.0,
+  "buy_stop": 3355.0,
+  "sell_limit": 3355.0,
+  "stop_loss_pips": 50,
+  "take_profit_pips": 100
+}
